@@ -47,5 +47,5 @@ This repository contains the source code and documentation for the AI-powered fi
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/xnl-innovations/XNL-21BCEXXXX-LLM-4.git
+   git clone https://github.com/xnl-innovations/XNL-21BCE2131-LLM-4.git
    cd XNL-21BCE2131-LLM-4
