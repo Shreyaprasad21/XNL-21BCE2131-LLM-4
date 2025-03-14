@@ -45,9 +45,6 @@ This repository contains the source code and documentation for the AI-powered fi
 - PostgreSQL/MySQL for database
 
 
-![Uploading image.png…]()
-
-
 ### Installation Steps
 1. Clone the repository:
    ```bash
